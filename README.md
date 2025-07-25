@@ -1,1 +1,1 @@
-# JDBC-Hibernate-1.1.3-
+# JDBC-Hibernate-1.1.3
